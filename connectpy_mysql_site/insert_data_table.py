@@ -1,5 +1,5 @@
 import mysql.connector
-connect = mysql.connector.connect(host='localhost', database='pesssoas', user='root', password='28101565')
+connect = mysql.connector.connect(host='localhost', database='pessoas', user='root', password='******')
 if connect.is_connected():
     print(f'\033[1;32mConectado ao servidor MySQL versão {connect.get_server_info()}\033[m')
     print()
