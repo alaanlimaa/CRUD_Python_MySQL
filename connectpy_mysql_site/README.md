@@ -2,6 +2,7 @@
 
 CRUD apenas com o conector baixado do próprio site oficial MySQL:
 [Clique aqui](https://dev.mysql.com/downloads/connector/python/)
-**Necessário ter cadastro na Oracle para efetuar o download.**
- ---
+---
+_**Necessário ter cadastro na Oracle para efetuar o download.**_
+---
  
