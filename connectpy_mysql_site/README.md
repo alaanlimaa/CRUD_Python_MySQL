@@ -1,17 +1,7 @@
-# Estudo Linguagem Python 🐍
+# CRUD Python 🐍 + MySQL
 
-Repositório focado no estudo da Linguagem Python separado por assuntos, exercícios e projetos resolvidos de Cursos + Livros.
+CRUD apenas com o conector baixado do próprio site oficial MySQL:
+[Link: ](https://dev.mysql.com/downloads/connector/python/)
+Necessário ter cadastro na Oracle para efetuar o download.
  ---
- ## BASES ESTUDO:
-
-* ### *Livros*:
-
-    * Automatize Tarefas Maçantes com Python - Al Sweigart
-    * Curso Intensivo de Python - Novatec 
-    * Python Fluente - Luciano Ramalho - Novatec 
-
-* ### *Cursos*:
-
-    * Análise e Desenvolvimento de Software - Faculdade IMPACTA Tecnologia
-    * Curso em Video - Python Mundo 1, 2 e 3
-    * Alura
+ 
